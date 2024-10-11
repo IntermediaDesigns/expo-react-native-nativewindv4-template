@@ -2,7 +2,7 @@
 
 ## Latest version as of October 11, 2024
 
-- No additional folders or file, this is a plain boilerplate to start from scratch
+- No additional folders or files, this is a plain boilerplate to start from scratch
 
 
 ## Get started
