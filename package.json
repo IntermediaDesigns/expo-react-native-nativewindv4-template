@@ -1,5 +1,5 @@
 {
-  "name": "expo-react-native-nativewindv4-boilerplate",
+  "name": "expo-rn-nw4-boilerplate",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -47,5 +47,22 @@
     "react-test-renderer": "18.2.0",
     "typescript": "~5.3.3"
   },
-  "private": true
+  "private": false,
+  "description": "Expo React Native with Typescript and NativeWind v4 boilerplate starter to develop from scratch.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntermediaDesigns/expo-react-native-nativewindv4-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "nativewind",
+    "v4"
+  ],
+  "author": "Lynjai Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntermediaDesigns/expo-react-native-nativewindv4-template/issues"
+  },
+  "homepage": "https://github.com/IntermediaDesigns/expo-react-native-nativewindv4-template#readme"
 }
