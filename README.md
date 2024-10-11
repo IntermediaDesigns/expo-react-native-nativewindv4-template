@@ -2,7 +2,7 @@
 
 ## Latest version as of October 11, 2024 - 1.0.0
 
-- No additional folders or files, this is a plain boilerplate to start from scratch
+- Expo React Native with Typescript and NativeWind v4 boilerplate starter to develop from scratch. No route folders or additional files included.
 
 
 ## Dependencies:
